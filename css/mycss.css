@@ -82,7 +82,7 @@ body {
     z-index: 10px; /* 슬라이드 이미지 위에 표시 */
   }
   #topmenu > li > ul > li > a:hover {
-    color: #f00;
+    color: wheat;
   }
 
   figure {
