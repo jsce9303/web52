@@ -112,8 +112,9 @@ body {
 
   /* 탭 메뉴 */
   #tabMenu{
-    width: 898px; height: 600px;
+    width: 897px; height: 600px;
     border-left: 1px solid black;
+    border-right: 1px solid black;
     float: left;
 }
 #tabMenu input[type="radio"]{
@@ -194,11 +195,12 @@ p{
 
 #basket{
     width: 299px; height: 600px;
-    border: 1px solid black;
     border-bottom: none;
     float: left;
     text-align: center;
     position: relative;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
 }
 
 #basket > h1 {
