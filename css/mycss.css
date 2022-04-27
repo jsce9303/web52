@@ -155,7 +155,7 @@ body {
 }
 .tab > ul > li:hover > .caption {
   opacity: 1;
-  transform: translateY(-120px); /* 설명글 위치 */
+  transform: translateY(-57px); /* 설명글 위치 */
 }
 .caption p {  /*캡션 텍스트 옵션 설정 */
   font-size: 18px;
@@ -163,11 +163,8 @@ body {
   text-align: center;
   line-height: 50px;
 }
-#captop {
-  bottom: -132px;
-}
-#capdown {
-  bottom: -376px;
+#capcenter {
+  margin: 0 0 0 5px;
 }
 #noodle > ul > li{
     display: inline-block;
