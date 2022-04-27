@@ -8,7 +8,7 @@
   color: black;
 }
 body {
-  background-image: url('img/back.png');
+  background-image: url('../img/back.png');
 }
 
   #logo {
@@ -30,9 +30,6 @@ body {
         padding: 34px 0 34px 0;
         display: block;
       }
-        header > nav > ul > li > a:hover {
-          background-color: beige;
-        }
 
   #wrap {
     width: 1200px; height: 1000px;
